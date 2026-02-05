@@ -1,0 +1,52 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:black_bed": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:lantern": 1,
+      "minecraft:flower_pot": 2,
+      "minecraft:black_bed": 1,
+      "minecraft:blue_ice": 64
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 404,
+      "minecraft:walk_one_cm": 61215,
+      "minecraft:damage_taken": 80,
+      "minecraft:play_time": 21113,
+      "minecraft:jump": 82,
+      "minecraft:time_since_death": 21113,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 13492,
+      "minecraft:sleep_in_bed": 4,
+      "minecraft:fall_one_cm": 450,
+      "minecraft:total_world_time": 33303,
+      "minecraft:fly_one_cm": 19174,
+      "minecraft:pot_flower": 3,
+      "minecraft:crouch_one_cm": 333,
+      "minecraft:sneak_time": 252
+    },
+    "minecraft:dropped": {
+      "minecraft:blue_ice": 64
+    },
+    "minecraft:used": {
+      "minecraft:stripped_spruce_log": 74,
+      "minecraft:painting": 32,
+      "minecraft:red_bed": 4,
+      "minecraft:spruce_shelf": 24,
+      "minecraft:moss_carpet": 24,
+      "minecraft:golden_carrot": 6,
+      "minecraft:spruce_log": 172,
+      "minecraft:bookshelf": 12,
+      "minecraft:white_carpet": 28,
+      "minecraft:chiseled_bookshelf": 8,
+      "minecraft:mangrove_leaves": 17,
+      "minecraft:enchanted_golden_apple": 1,
+      "minecraft:lantern": 4,
+      "minecraft:flower_pot": 6,
+      "minecraft:black_bed": 1,
+      "minecraft:decorated_pot": 3
+    }
+  },
+  "DataVersion": 4671
+}

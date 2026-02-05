@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:potato": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:bookshelf": 1,
+      "minecraft:flower_pot": 1,
+      "minecraft:command_block": 1,
+      "minecraft:dark_oak_button": 1,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:cooked_porkchop": 63,
+      "minecraft:bread": 63,
+      "minecraft:oak_log": 64,
+      "minecraft:lantern": 1,
+      "minecraft:potato": 65,
+      "minecraft:black_bed": 1,
+      "minecraft:ladder": 64,
+      "minecraft:golden_carrot": 63
+    },
+    "minecraft:used": {
+      "minecraft:cornflower": 1,
+      "minecraft:command_block": 1,
+      "minecraft:cooked_porkchop": 1,
+      "minecraft:dark_oak_button": 1,
+      "minecraft:bread": 1,
+      "minecraft:potato": 2,
+      "minecraft:golden_carrot": 3
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 8040,
+      "minecraft:walk_one_cm": 11023,
+      "minecraft:damage_taken": 870,
+      "minecraft:play_time": 12649,
+      "minecraft:jump": 86,
+      "minecraft:time_since_death": 8016,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 13804,
+      "minecraft:fall_one_cm": 1541,
+      "minecraft:total_world_time": 99178,
+      "minecraft:fly_one_cm": 8306,
+      "minecraft:crouch_one_cm": 321,
+      "minecraft:sneak_time": 228,
+      "minecraft:deaths": 1
+    }
+  },
+  "DataVersion": 4671
+}

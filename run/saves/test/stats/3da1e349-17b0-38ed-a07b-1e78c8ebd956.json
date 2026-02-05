@@ -1,0 +1,30 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 271,
+      "minecraft:walk_one_cm": 10149,
+      "minecraft:damage_taken": 90,
+      "minecraft:play_time": 6909,
+      "minecraft:jump": 78,
+      "minecraft:time_since_death": 6909,
+      "minecraft:sprint_one_cm": 5011,
+      "minecraft:sleep_in_bed": 5,
+      "minecraft:fall_one_cm": 1657,
+      "minecraft:total_world_time": 10320,
+      "minecraft:fly_one_cm": 13374,
+      "minecraft:pot_flower": 1,
+      "minecraft:crouch_one_cm": 16,
+      "minecraft:sneak_time": 64
+    },
+    "minecraft:used": {
+      "minecraft:bookshelf": 4,
+      "minecraft:lantern": 1,
+      "minecraft:command_block": 3,
+      "minecraft:dark_oak_button": 2,
+      "minecraft:flower_pot": 1,
+      "minecraft:black_bed": 2,
+      "minecraft:campfire": 1
+    }
+  },
+  "DataVersion": 4671
+}

@@ -1,0 +1,6 @@
+{
+  "effect.smart_survival.well_rested": "Well Rested",
+  "effect.smart_survival.well_rested.description": "You slept comfortably and recover health over time.",
+  "key.smart_survival.nutrition": "Open Nutrition",
+  "screen.smart_survival.nutrition": "Nutrition"
+}

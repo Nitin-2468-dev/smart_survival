@@ -1,0 +1,22 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:baked_potato": 1,
+      "minecraft:honey_bottle": 4,
+      "minecraft:golden_carrot": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 2014,
+      "minecraft:time_since_rest": 6000,
+      "minecraft:fall_one_cm": 1381,
+      "minecraft:walk_one_cm": 1644,
+      "minecraft:total_world_time": 6000,
+      "minecraft:fly_one_cm": 7475,
+      "minecraft:sneak_time": 2,
+      "minecraft:play_time": 6000,
+      "minecraft:jump": 46,
+      "minecraft:time_since_death": 6000
+    }
+  },
+  "DataVersion": 4671
+}

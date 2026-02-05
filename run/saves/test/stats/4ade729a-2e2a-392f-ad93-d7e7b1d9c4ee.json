@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:cooked_porkchop": 2,
+      "minecraft:bread": 2,
+      "minecraft:golden_carrot": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 6102,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:time_since_rest": 38657,
+      "minecraft:fall_one_cm": 1317,
+      "minecraft:walk_one_cm": 7530,
+      "minecraft:total_world_time": 45076,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 11648,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 39540,
+      "minecraft:jump": 47,
+      "minecraft:time_since_death": 39540
+    }
+  },
+  "DataVersion": 4671
+}

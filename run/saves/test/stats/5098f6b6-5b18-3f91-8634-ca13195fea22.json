@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:flint_and_steel": 1,
+      "minecraft:wooden_shovel": 1
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5109,
+      "minecraft:time_since_rest": 2563,
+      "minecraft:walk_one_cm": 8636,
+      "minecraft:total_world_time": 2563,
+      "minecraft:fly_one_cm": 6043,
+      "minecraft:damage_taken": 140,
+      "minecraft:play_time": 2563,
+      "minecraft:jump": 26,
+      "minecraft:time_since_death": 2563
+    }
+  },
+  "DataVersion": 4671
+}

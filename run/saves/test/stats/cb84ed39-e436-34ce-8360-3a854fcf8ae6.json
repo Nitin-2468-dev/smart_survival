@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:dark_oak_button": 2
+    },
+    "minecraft:picked_up": {
+      "minecraft:dark_oak_button": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 81,
+      "minecraft:walk_one_cm": 1703,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 20879,
+      "minecraft:jump": 10,
+      "minecraft:time_since_death": 20879,
+      "minecraft:sprint_one_cm": 975,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:fall_one_cm": 775,
+      "minecraft:total_world_time": 21655,
+      "minecraft:fly_one_cm": 1162,
+      "minecraft:crouch_one_cm": 35,
+      "minecraft:sneak_time": 61
+    },
+    "minecraft:mined": {
+      "minecraft:dark_oak_button": 2
+    }
+  },
+  "DataVersion": 4671
+}

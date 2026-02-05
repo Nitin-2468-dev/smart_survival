@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "smart_survival",
+  "version": "${version}",
+  "name": "smart_survival",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "icon": "assets/smart_survival/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "com.nitin.smartsurvival.smart_survival.client.Smart_survivalDataGenerator"
+    ],
+    "client": [
+      "com.nitin.smartsurvival.smart_survival.client.Smart_survivalClient"
+    ],
+    "main": [
+      "com.nitin.smartsurvival.smart_survival.Smart_survival"
+    ]
+  },
+  "mixins": [
+    "smart_survival.mixins.json",
+    {
+      "config": "smart_survival.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
