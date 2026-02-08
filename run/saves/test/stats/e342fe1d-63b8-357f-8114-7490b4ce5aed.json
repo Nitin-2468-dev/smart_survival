@@ -1,0 +1,30 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:fire": 1
+    },
+    "minecraft:used": {
+      "minecraft:lava_bucket": 1,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:bucket": 1,
+      "minecraft:potato": 1,
+      "minecraft:golden_carrot": 2
+    },
+    "minecraft:custom": {
+      "minecraft:damage_resisted": 32,
+      "minecraft:time_since_rest": 158,
+      "minecraft:walk_one_cm": 2709,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 268,
+      "minecraft:play_time": 1326,
+      "minecraft:jump": 44,
+      "minecraft:time_since_death": 1326,
+      "minecraft:sprint_one_cm": 5601,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 580,
+      "minecraft:total_world_time": 1555,
+      "minecraft:fly_one_cm": 7876
+    }
+  },
+  "DataVersion": 4671
+}

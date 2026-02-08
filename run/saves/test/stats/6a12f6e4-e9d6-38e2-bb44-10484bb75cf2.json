@@ -1,0 +1,32 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:wooden_shovel": 1,
+      "minecraft:campfire": 1,
+      "minecraft:oak_log": 64,
+      "minecraft:firefly_bush": 1,
+      "minecraft:grass_block": 1,
+      "minecraft:ladder": 64,
+      "minecraft:flint_and_steel": 1
+    },
+    "minecraft:used": {
+      "minecraft:flint_and_steel": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 6092,
+      "minecraft:time_since_rest": 2023,
+      "minecraft:walk_one_cm": 9587,
+      "minecraft:total_world_time": 7391,
+      "minecraft:fly_one_cm": 1505,
+      "minecraft:damage_taken": 390,
+      "minecraft:play_time": 3597,
+      "minecraft:deaths": 1,
+      "minecraft:jump": 5,
+      "minecraft:time_since_death": 1999
+    },
+    "minecraft:mined": {
+      "minecraft:fire": 2
+    }
+  },
+  "DataVersion": 4671
+}

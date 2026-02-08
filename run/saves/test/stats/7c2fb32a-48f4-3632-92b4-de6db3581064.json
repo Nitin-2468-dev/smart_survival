@@ -1,0 +1,23 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:lava_bucket": 2,
+      "minecraft:flint_and_steel": 2,
+      "minecraft:bucket": 2
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 646,
+      "minecraft:time_since_rest": 458,
+      "minecraft:walk_one_cm": 1032,
+      "minecraft:total_world_time": 595,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 1759,
+      "minecraft:damage_taken": 120,
+      "minecraft:sneak_time": 4,
+      "minecraft:play_time": 458,
+      "minecraft:jump": 9,
+      "minecraft:time_since_death": 458
+    }
+  },
+  "DataVersion": 4671
+}

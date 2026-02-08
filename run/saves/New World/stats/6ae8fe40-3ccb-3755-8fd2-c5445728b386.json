@@ -1,0 +1,43 @@
+{
+  "stats": {
+    "minecraft:picked_up": {
+      "minecraft:redstone_torch": 7,
+      "minecraft:stone": 128,
+      "minecraft:redstone": 2
+    },
+    "minecraft:used": {
+      "minecraft:lava_bucket": 1,
+      "minecraft:repeater": 30,
+      "minecraft:redstone_block": 1,
+      "minecraft:redstone": 18,
+      "minecraft:dispenser": 7,
+      "minecraft:campfire": 1,
+      "minecraft:wooden_shovel": 2,
+      "minecraft:stone": 53,
+      "minecraft:stone_shovel": 3,
+      "minecraft:hopper": 7,
+      "minecraft:comparator": 6,
+      "minecraft:sticky_piston": 3,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:redstone_torch": 15,
+      "minecraft:amethyst_block": 2
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 19083,
+      "minecraft:walk_one_cm": 31847,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 260,
+      "minecraft:play_time": 19083,
+      "minecraft:jump": 24,
+      "minecraft:time_since_death": 19083,
+      "minecraft:sprint_one_cm": 2529,
+      "minecraft:inspect_dispenser": 3,
+      "minecraft:inspect_hopper": 10,
+      "minecraft:total_world_time": 19122,
+      "minecraft:fly_one_cm": 26533,
+      "minecraft:crouch_one_cm": 2044,
+      "minecraft:sneak_time": 2510
+    }
+  },
+  "DataVersion": 4671
+}

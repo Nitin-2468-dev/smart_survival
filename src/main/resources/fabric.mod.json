@@ -3,10 +3,12 @@
   "id": "smart_survival",
   "version": "${version}",
   "name": "smart_survival",
-  "description": "",
-  "authors": [],
-  "contact": {},
-  "license": "All-Rights-Reserved",
+  "description": "Smart Survival is a Fabric mod for Minecraft 1.21.11 that adds campfire comfort, sleep quality effects and nutritional food buffs to enhance survival.",
+  "authors": ["Nitin"],
+  "contact": {
+    "sources": "https://github.com/yourname/smart-survival"
+  },
+  "license": "GPL-3.0-only",
   "icon": "assets/smart_survival/icon.png",
   "environment": "*",
   "entrypoints": {

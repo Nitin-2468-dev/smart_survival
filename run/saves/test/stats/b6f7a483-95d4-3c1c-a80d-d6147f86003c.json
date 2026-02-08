@@ -1,0 +1,20 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:golden_carrot": 4
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 3388,
+      "minecraft:time_since_rest": 44278,
+      "minecraft:fall_one_cm": 1325,
+      "minecraft:walk_one_cm": 1946,
+      "minecraft:total_world_time": 45424,
+      "minecraft:fly_one_cm": 9737,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 44278,
+      "minecraft:jump": 44,
+      "minecraft:time_since_death": 44278
+    }
+  },
+  "DataVersion": 4671
+}

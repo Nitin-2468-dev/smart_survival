@@ -1,0 +1,33 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 5319,
+      "minecraft:time_since_rest": 3916,
+      "minecraft:walk_one_cm": 4827,
+      "minecraft:total_world_time": 3916,
+      "minecraft:fly_one_cm": 36649,
+      "minecraft:crouch_one_cm": 68,
+      "minecraft:sneak_time": 224,
+      "minecraft:play_time": 3916,
+      "minecraft:jump": 52,
+      "minecraft:time_since_death": 3891,
+      "minecraft:drop": 3
+    },
+    "minecraft:used": {
+      "minecraft:flint_and_steel": 1,
+      "minecraft:ender_eye": 13,
+      "minecraft:blue_ice": 31,
+      "minecraft:end_portal_frame": 12,
+      "minecraft:obsidian": 13
+    },
+    "minecraft:picked_up": {
+      "minecraft:torch": 4,
+      "minecraft:crimson_roots": 2,
+      "minecraft:blue_ice": 65
+    },
+    "minecraft:dropped": {
+      "minecraft:blue_ice": 128
+    }
+  },
+  "DataVersion": 4671
+}

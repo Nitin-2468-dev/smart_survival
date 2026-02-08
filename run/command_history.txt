@@ -1,0 +1,50 @@
+/give @s minecraft:flint_and_steel
+/weather rain
+/particle minecraft:firefly
+/particle minecraft:firefly ~ ~ ~ ~ ~ ~ 1 256 force
+/weather clear
+/particle minecraft:firefly ~ ~ ~ ~ ~ ~ 1 256 force
+/time set night
+/particle minecraft:firefly ~ ~ ~ ~ ~ ~ 1 256 force
+/particle minecraft:firefly
+/gamerule mob_drops false
+/gamerule spawn_mobs false
+/kill @e[type=!minecraft:player]
+/weather rain
+/weather clear
+/time query
+/time query daytime
+/time add 100
+/time add 100/
+/time add 300
+/time add 900
+/time add 9000
+/time query daytime
+/effect give @s smart-survival:well_rested
+/time set day
+/time set night
+/time add 12000
+/time set day
+/effect give @a minecraft:saturation infinite
+/kill @s
+/effect give @s minecraft:hunger
+/effect give @s minecraft:hunger infinite 255 false
+/effect give @s minecraft:hunger 10 255 false
+/give @s minecraft:honey_bottle 4
+/give @s minecraft:netherite_shovel
+/fillbiome 17 -61 9
+/fillbiome 17 -61 9 7 -61 23 minecraft:desert
+/kill @e[type=minecraft:ender_dragon
+/kill @e[type=minecraft:ender_dragon]
+/effect give @s minecraft:hunger 10 255 false
+/clear @s
+/give @s minecraft:bundle
+/give @s minecraft:bundle 5
+/give @s minecraft:blue_ice 320
+/time set night
+/attribute @s minecraft:camera_distance modifier add 20
+/attribute @s minecraft:camera_distance modifier value get
+/attribute @s minecraft:camera_distance base
+/attribute @s minecraft:camera_distance base get
+/attribute @s minecraft:camera_distance base set 20
+/summon smart_survival:traveller

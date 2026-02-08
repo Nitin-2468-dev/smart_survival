@@ -1,0 +1,26 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:bread": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_campfire": 1,
+      "minecraft:time_since_rest": 7575,
+      "minecraft:walk_one_cm": 4735,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 10,
+      "minecraft:play_time": 9095,
+      "minecraft:jump": 79,
+      "minecraft:time_since_death": 9095,
+      "minecraft:sprint_one_cm": 7491,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 2814,
+      "minecraft:total_world_time": 33492,
+      "minecraft:fly_one_cm": 9965
+    },
+    "minecraft:picked_up": {
+      "minecraft:baked_potato": 1
+    }
+  },
+  "DataVersion": 4671
+}

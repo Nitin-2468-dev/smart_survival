@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:cooked_porkchop": 2,
+      "minecraft:golden_carrot": 3
+    },
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 1398,
+      "minecraft:time_since_rest": 35011,
+      "minecraft:fall_one_cm": 450,
+      "minecraft:walk_one_cm": 1083,
+      "minecraft:total_world_time": 35142,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 2821,
+      "minecraft:play_time": 35011,
+      "minecraft:jump": 15,
+      "minecraft:time_since_death": 35011
+    }
+  },
+  "DataVersion": 4671
+}
