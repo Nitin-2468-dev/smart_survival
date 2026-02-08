@@ -35,3 +35,4 @@ without those projects being subject to the GPL-3.0 license, provided that:
 Any project that copies code, modifies this project's source code, or 
 incorporates assets from this project must be licensed under GPL-3.0 and 
 provide attribution as required by the license.
+
